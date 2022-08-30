@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ChristiHarlow/christialecia-react/static/css/main.073c9b0a.css",
-    "main.js": "/ChristiHarlow/christialecia-react/static/js/main.a68f427e.js",
-    "static/js/787.bc733303.chunk.js": "/ChristiHarlow/christialecia-react/static/js/787.bc733303.chunk.js",
-    "static/media/logo.svg": "/ChristiHarlow/christialecia-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ChristiHarlow/christialecia-react/index.html",
-    "main.073c9b0a.css.map": "/ChristiHarlow/christialecia-react/static/css/main.073c9b0a.css.map",
-    "main.a68f427e.js.map": "/ChristiHarlow/christialecia-react/static/js/main.a68f427e.js.map",
-    "787.bc733303.chunk.js.map": "/ChristiHarlow/christialecia-react/static/js/787.bc733303.chunk.js.map"
+    "main.css": "/christialecia-react/static/css/main.073c9b0a.css",
+    "main.js": "/christialecia-react/static/js/main.a7f4219d.js",
+    "static/js/787.bc733303.chunk.js": "/christialecia-react/static/js/787.bc733303.chunk.js",
+    "static/media/logo.svg": "/christialecia-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/christialecia-react/index.html",
+    "main.073c9b0a.css.map": "/christialecia-react/static/css/main.073c9b0a.css.map",
+    "main.a7f4219d.js.map": "/christialecia-react/static/js/main.a7f4219d.js.map",
+    "787.bc733303.chunk.js.map": "/christialecia-react/static/js/787.bc733303.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a68f427e.js"
+    "static/js/main.a7f4219d.js"
   ]
 }
